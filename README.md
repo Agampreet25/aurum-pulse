@@ -1,6 +1,8 @@
-#AurumPulse Insights
+# AurumPulse Insights
 Sentiment-Aware Financial Forecasting System for Gold Price Prediction
 AurumPulse Insights is an end-to-end machine learning system for short-horizon gold price forecasting under noisy market conditions. The project integrates LSTM–Autoencoder–based representation learning with sentiment-aware decision logic to generate actionable buyer/seller insights, bridging predictive modeling and human-centric decision support.
+
+The project is copyrighted under UPES IS Cell.
 
 🔍 Motivation
 
